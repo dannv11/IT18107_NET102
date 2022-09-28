@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BAI_2_4_NULL_VA_NULLABLE_TYPE/1.0.0": {
+        "runtime": {
+          "BAI_2_4_NULL_VA_NULLABLE_TYPE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAI_2_4_NULL_VA_NULLABLE_TYPE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
