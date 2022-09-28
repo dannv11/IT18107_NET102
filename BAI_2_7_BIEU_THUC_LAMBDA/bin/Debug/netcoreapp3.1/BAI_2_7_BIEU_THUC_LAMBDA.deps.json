@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BAI_2_7_BIEU_THUC_LAMBDA/1.0.0": {
+        "runtime": {
+          "BAI_2_7_BIEU_THUC_LAMBDA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BAI_2_7_BIEU_THUC_LAMBDA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

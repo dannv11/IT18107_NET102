@@ -1,0 +1,14 @@
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\bin\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.exe
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\bin\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.deps.json
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\bin\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.runtimeconfig.json
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\bin\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.runtimeconfig.dev.json
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\bin\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.dll
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\bin\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.pdb
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\obj\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.csproj.AssemblyReference.cache
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\obj\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\obj\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.AssemblyInfoInputs.cache
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\obj\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.AssemblyInfo.cs
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\obj\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.csproj.CoreCompileInputs.cache
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\obj\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.dll
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\obj\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.pdb
+D:\BaiGiang\NET102\IT18107_NET102_BL1_FALL22\BAI_2_5_SYSTEM_IO\obj\Debug\netcoreapp3.1\BAI_2_5_SYSTEM_IO.genruntimeconfig.cache
